@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Brian Estigarribia ☕</h1> 
+<h1 align="center">Hello! I'm Brian Estigarribia Maia ☕</h1> 
 
 <h3 align="center">I am passionate ❤️ about computing in general and programming 👨‍💻in particular.</h3>
 
