@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/brian-estigarribia/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linked" height="50" width="50" /></a>
-<a href="https://www.instagram.com/briandoesnotexist/" target="blank"><img align="center" src="./icons/instagram.png" alt="insta" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/brian-estigarribia-maia/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linked" height="50" width="50" /></a>
+<a href="https://www.instagram.com/briandontexist/" target="blank"><img align="center" src="./icons/instagram.png" alt="insta" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
