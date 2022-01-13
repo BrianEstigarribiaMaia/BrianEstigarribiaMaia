@@ -17,6 +17,6 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html5.png" alt="html5" width="60" height="60"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css3.png" alt="css3" width="60" height="60"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" alt="javascript" width="60" height="60"/> 
- <a href="https://www.php.net/" target="_blank"> <img src="./icons/php.png" alt="php" width="60" height="60"/>
+ <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank"> <img src="./icons/plsql.png" alt="plsql" width="60" height="60"/>
  </a>
 </p>
