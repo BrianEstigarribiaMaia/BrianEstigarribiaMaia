@@ -3,12 +3,6 @@
 <h3 align="center">I am passionate ❤️ about computing in general and programming 👨‍💻in particular.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/brian-estigarribia-maia/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linked" height="50" width="50" /></a>
-<a href="https://www.instagram.com/briandontexist/" target="blank"><img align="center" src="./icons/instagram.png" alt="insta" height="50" width="50" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
  <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="60" height="60"/> </a>
@@ -24,3 +18,9 @@
    <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="60" height="60"/> </a>
    <a href="https://www.oracle.com/br/database/" target="_blank"> <img src="./icons/oracle.png" alt="oracle" width="60" height="60"/> </a>
  </p>
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/brian-estigarribia-maia/" target="blank"><img align="center" src="./icons/linkedin.png" alt="linked" height="50" width="50" /></a>
+<a href="https://www.instagram.com/briandontexist/" target="blank"><img align="center" src="./icons/instagram.png" alt="insta" height="50" width="50" /></a>
+</p>
