@@ -11,7 +11,6 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css3.png" alt="css3" width="60" height="60"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" alt="javascript" width="60" height="60"/> 
  <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank"> <img src="./icons/plsql.png" alt="plsql" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60"/>
  </a>
 </p>
 <h3 align="left">Databases:</h3>
