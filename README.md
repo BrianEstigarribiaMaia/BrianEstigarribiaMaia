@@ -15,8 +15,10 @@
 </p>
 <h3 align="left">Databases:</h3>
  <p align="left">  
-   <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="60" height="60"/> </a>
-   <a href="https://www.oracle.com/br/database/" target="_blank"> <img src="./icons/oracle.png" alt="oracle" width="60" height="60"/> </a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="60" height="60"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/> 
  </p>
  
 <h3 align="left">Connect with me:</h3>
