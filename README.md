@@ -22,7 +22,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/> 
  </p>
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/BrianEstigarribiaMaia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brian's github stats" /></a> | <a href="https://github.com/BrianEstigarribiaMaia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianEstigarribiaMaia&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
