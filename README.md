@@ -1,6 +1,6 @@
 ## <Hello, world. I'm Brian Estigarribia. />
 
-<h3 align="center">I am passionate ❤️ about computing in general and programming in particular.</h3>
+<h3 align="left">I am passionate ❤️ about computing in general and programming in particular.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
