@@ -22,7 +22,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/> 
  </p>
  
-(https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues&hide_title=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
