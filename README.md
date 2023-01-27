@@ -22,7 +22,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/> 
  </p>
  
-| <a href="https://github.com/BrianEstigarribiaMaia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brian's github stats" /></a> | <a href="https://github.com/BrianEstigarribiaMaia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianEstigarribiaMaia&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianEstigarribiaMaia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Brian's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianEstigarribiaMaia&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
 <h3 align="left">Connect with me:</h3>
