@@ -18,12 +18,6 @@
     <img src="https://skillicons.dev/icons?i=spring,git,postgres,mysql,mongodb" />
   </a>
 </p>
- <p align="center">
-  <h3>Learning</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts" />
-  </a>
-</p>
 </div>
   
   ##
